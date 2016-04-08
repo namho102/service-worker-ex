@@ -1,1 +1,1 @@
-# service-worker-ex
+# Service Worker Example
